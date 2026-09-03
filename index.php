@@ -43,6 +43,7 @@
         <li><a href="blog.html" class="plate-nav-link">Gastronomy Journal</a></li>
         <li><a href="#plate-workbench" class="plate-nav-link">Scenography Studio</a></li>
         <li><a href="#scenography-matrix" class="plate-nav-link">Plating Matrix</a></li>
+        <li><a href="#kiln-science" class="plate-nav-link">Kiln Science</a></li>
         <li><a href="contact.html" class="plate-nav-link">Commissions Salon</a></li>
       </ul>
 
@@ -111,6 +112,49 @@
                 <p>Retains 65&deg;C Plating Heat for 20 Mins</p>
               </div>
               <span class="spec-metric-badge">Thermal Safe</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- NEW RICH SECTION 1: Ceramic Kiln Reduction & Mullite Vitrification Showcase -->
+    <section id="kiln-science" class="media-split-section">
+      <div class="container media-split-grid">
+        <div class="media-split-visual">
+          <img src="images/feature-kiln-firing.jpg" alt="Master ceramist turning fine porcelain clay plate on pottery wheel in ceramic studio" loading="lazy">
+          <div class="visual-floating-badge">
+            <div>
+              <h5>1,280&deg;C Gas Reduction Kiln</h5>
+              <p>Mullite Needle Matrix: 99.8% Vitrified</p>
+            </div>
+            <span class="badge-plate">Cone 10 High-Fire</span>
+          </div>
+        </div>
+
+        <div>
+          <span class="badge-plate">High-Fire Kiln Metallurgy</span>
+          <h2 style="font-size: 2.8rem; margin: 0.85rem 0 1.25rem;">The Physics of Mullite Vitrification & Thermal Density</h2>
+          <p style="font-size: 1.05rem; color: var(--text-plate-muted); line-height: 1.8;">
+            Inside our high-temperature gas reduction kilns, pure kaolin clay and potash feldspar undergo a profound mineral metamorphosis. At 1,280&deg;C, decomposing aluminosilicates crystallize into an interwoven lattice of microscopic mullite needles ($3Al_2O_3 \cdot 2SiO_2$), locking the ceramic body in permanent glassification with diamond-hard scratch resistance and crystal acoustic clarity.
+          </p>
+
+          <div class="tech-cards-cluster">
+            <div class="tech-micro-card">
+              <h4>Primary Kaolin Clay</h4>
+              <p>Pure hydrated aluminum silicate formulation providing structural rigidity at extreme temperatures without warping.</p>
+            </div>
+            <div class="tech-micro-card">
+              <h4>Zero-Porosity Seal</h4>
+              <p>Water absorption verified strictly below 0.05%, guaranteeing complete imperviousness to oils and wash water.</p>
+            </div>
+            <div class="tech-micro-card">
+              <h4>Mullite Needle Core</h4>
+              <p>Interlocking crystalline needles that physically bridge micro-fissures, delivering 240&deg;C &Delta;T thermal shock survival.</p>
+            </div>
+            <div class="tech-micro-card">
+              <h4>Reduction Atmosphere</h4>
+              <p>Oxygen-starved kiln combustion purging iron impurities to reveal subtle jade celadons and translucent ivory tones.</p>
             </div>
           </div>
         </div>
@@ -253,6 +297,67 @@
       </div>
     </section>
 
+    <!-- NEW RICH SECTION 2: Mineral Glaze & Textural Surface Gallery -->
+    <section class="section-padding" style="background: var(--bg-plate-surface); border-top: 1px solid var(--border-plate); border-bottom: 1px solid var(--border-plate);">
+      <div class="container">
+        <div class="section-header-plate">
+          <span class="badge-plate">Artisanal Glaze Metallurgy</span>
+          <h2>The Mineral Glaze & Textural Surface Gallery</h2>
+          <p>Explore our signature non-toxic mineral glaze formulations&mdash;engineered with natural silica, wood ash, and iron oxides for extraordinary tactile elegance.</p>
+        </div>
+
+        <div class="glaze-gallery-grid">
+          <!-- Card 1 -->
+          <div class="glaze-showcase-card">
+            <div class="glaze-media-box">
+              <img src="images/feature-glaze-mineral.jpg" alt="Delicate sea-foam green celadon porcelain plate with natural micro-bubble translucency" loading="lazy">
+              <div class="glaze-tag-overlay"><span class="badge-plate">Song Dynasty Heritage</span></div>
+            </div>
+            <div class="glaze-body-content">
+              <h3>Pale Jade Celadon Glaze</h3>
+              <p>Formulated with washed natural wood ash and 1.2% iron oxide reduced at 1,280&deg;C. Creates a luminous, soft-focus seafoam depth that mirrors precious jade while resisting acidic citrus reductions.</p>
+              <div class="glaze-spec-strip">
+                <span>Hardness: <strong class="val">Mohs 7.5</strong></span>
+                <span>Lead & Cadmium: <strong class="val">0.00 ppm</strong></span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Card 2 -->
+          <div class="glaze-showcase-card">
+            <div class="glaze-media-box">
+              <img src="images/feature-porcelain-plate.jpg" alt="Satin-matte basalt black stoneware dinner plate showing silky micro-crystalline finish" loading="lazy">
+              <div class="glaze-tag-overlay"><span class="badge-plate">Micro-Crystalline Satin</span></div>
+            </div>
+            <div class="glaze-body-content">
+              <h3>Matte Basalt Satin Glaze</h3>
+              <p>Enriched with natural wollastonite and magnesium crystals that precipitate during kiln cooling to diffuse overhead spotlights. Delivers an inky, non-reflective backdrop for vibrant culinary creations.</p>
+              <div class="glaze-spec-strip">
+                <span>Reflectance: <strong class="val">Zero Glare</strong></span>
+                <span>Cutlery Mark: <strong class="val">Anti-Marking</strong></span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Card 3 -->
+          <div class="glaze-showcase-card">
+            <div class="glaze-media-box">
+              <img src="images/feature-cutlery-gold.jpg" alt="Forged 18/10 stainless steel dining cutlery finished in matte brushed titanium gold" loading="lazy">
+              <div class="glaze-tag-overlay"><span class="badge-plate">Drop-Forged 18/10</span></div>
+            </div>
+            <div class="glaze-body-content">
+              <h3>Forged 18/10 Gold Cutlery</h3>
+              <p>Hot-drop forged from surgical 18% chromium / 10% nickel stainless steel and molecularly bonded with PVD titanium gold. Perfectly balanced along the grip fulcrum for effortless dining comfort.</p>
+              <div class="glaze-spec-strip">
+                <span>Hardness: <strong class="val">2,000 Vickers</strong></span>
+                <span>Finish: <strong class="val">PVD Titanium</strong></span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <!-- UNIQUE SECTION: The 5-Course Plating & Geometry Diagnostic Matrix -->
     <section id="scenography-matrix" class="section-padding scenography-matrix-section">
       <div class="container">
@@ -342,6 +447,64 @@
       </div>
     </section>
 
+    <!-- NEW RICH SECTION 3: Haute Place Setting Architecture & Linen Scenography -->
+    <section class="scenography-arch-section">
+      <div class="container scenography-arch-grid">
+        <div>
+          <span class="badge-plate">Dining Landscape Design</span>
+          <h2 style="font-size: 2.8rem; margin: 0.85rem 0 1.25rem;">Haute Table Scenography & Linen Draping Architecture</h2>
+          <p style="font-size: 1.05rem; color: var(--text-plate-muted); line-height: 1.8;">
+            A luxury dining table is an intimate sensory sanctuary where tactile textiles, warm candlelight illumination, and ceramic geometry converge to orchestrate unforgettable culinary moments.
+          </p>
+
+          <div class="scenography-points-list">
+            <div class="scenography-point-item">
+              <span class="point-index-num">01</span>
+              <div class="point-text-wrap">
+                <h4>Washed Belgian Flax Linens</h4>
+                <p>Heavy $260\text{ g/m}^2$ stone-washed flax with a 40cm floor drop, absorbing room acoustic reflections and softening plate contacts.</p>
+              </div>
+            </div>
+
+            <div class="scenography-point-item">
+              <span class="point-index-num">02</span>
+              <div class="point-text-wrap">
+                <h4>Beeswax Candle Illumination</h4>
+                <p>Pure 1,800K low-angle candle glow that highlights glaze textures and steam without casting harsh diner shadows.</p>
+              </div>
+            </div>
+
+            <div class="scenography-point-item">
+              <span class="point-index-num">03</span>
+              <div class="point-text-wrap">
+                <h4>Mouth-Blown Crystal Heights</h4>
+                <p>Stepped glassware heights arranged diagonally to the upper right, creating an airy, sparkling tabletop skyline.</p>
+              </div>
+            </div>
+
+            <div class="scenography-point-item">
+              <span class="point-index-num">04</span>
+              <div class="point-text-wrap">
+                <h4>Millimeter Place Symmetry</h4>
+                <p>70cm guest perimeter allocations with charger plates setback precisely 2.5cm from the table perimeter line.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="media-split-visual">
+          <img src="images/feature-table-scenography.jpg" alt="Atmospheric fine dining table scenography featuring layered ceramic plates, crystal glassware, and candlelight" loading="lazy">
+          <div class="visual-floating-badge">
+            <div>
+              <h5>The Mercer Salon Scenography</h5>
+              <p>Belgian Flax &bull; 1,800K Beeswax Glow &bull; 70cm Spacing</p>
+            </div>
+            <span class="badge-plate">Master Layout</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <!-- Ceramic Craftsmanship Pillars (Atelier Blueprint Cards) -->
     <section class="section-padding" style="background: var(--bg-plate-surface); border-top: 1px solid var(--border-plate); border-bottom: 1px solid var(--border-plate);">
       <div class="container">
@@ -407,7 +570,7 @@
           <div class="faq-plate-item">
             <button class="faq-plate-btn">How are high-fire ceramic plates tested for food safety and glaze leaching? <span class="faq-toggle-icon">+</span></button>
             <div class="faq-plate-content">
-              All TableAndPlate ceramic glazes are 100% free of toxic lead, cadmium, and barium. Tested according to FDA and California Proposition 65 standards, plates are submerged in 4% acetic acid for 24 hours to verify zero chemical leaching, ensuring complete safety even when serving highly acidic citrus reductions and vinegars.
+              All TableAndPlate ceramic glazes are 100% free of toxic lead, cadmium, and barium. Tested according to FDA and California Proposition 65 standards, plates are submerged in 4% acetic acid for 24 hours to verify zero chemical leaching, ensuring complete safety even when serving highly acidic citrus reductions and culinary berry vinegars.
             </div>
           </div>
           <div class="faq-plate-item">
@@ -448,6 +611,7 @@
             <li><a href="blog.html">Gastronomy Journal</a></li>
             <li><a href="index.php#plate-workbench">Scenography Studio</a></li>
             <li><a href="index.php#scenography-matrix">Plating Matrix</a></li>
+            <li><a href="index.php#kiln-science">Kiln Science</a></li>
             <li><a href="contact.html">Commissions Salon</a></li>
           </ul>
         </div>
